@@ -49,7 +49,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
             document.getElementById('sadGifContainer').style.display = 'block';
 
             // Modificar el botón "No"
-            document.getElementById('noBtn').innerHTML = '¡Oh nein! Bist du sicher?';
+            document.getElementById('noBtn').innerHTML = 'Neeein! Bist du sicher?';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
           
             
@@ -81,7 +81,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
 
         case 2:
            
-            document.getElementById('noBtn').innerHTML = 'Wirklich Wirklich sicher';
+            document.getElementById('noBtn').innerHTML = 'Wirklich Wirklich sicher?';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
             document.getElementById('sadGifContainer').style.display = 'none';
             document.getElementById('sadGifContainer2').style.display = 'none';
@@ -107,7 +107,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
             break;
         case 4:
            
-            document.getElementById('noBtn').innerHTML = 'Bitte sagen Sie ja?';
+            document.getElementById('noBtn').innerHTML = 'Bitte sag ja?';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
             // Hacer que el botón "Sí" crezca
@@ -118,7 +118,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
             break;
         case 5:
            
-            document.getElementById('noBtn').innerHTML = 'Denke nochmal drüber nach!';
+            document.getElementById('noBtn').innerHTML = 'Denke nochmal drüber nach! Mit G-Klasse.';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
             // Hacer que el botón "Sí" crezca
@@ -129,7 +129,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
             break;
         case 6:
            
-            document.getElementById('noBtn').innerHTML = 'Ja? Ich werde sehr traurig sein.';
+            document.getElementById('noBtn').innerHTML = 'Ja? Ich werde ansonsten sehr traurig sein.';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
             // Hacer que el botón "Sí" crezca
@@ -185,7 +185,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
             break;
         case 11:
            
-            document.getElementById('noBtn').innerHTML = 'Nur ein Scherz, bitte sag ja.';
+            document.getElementById('noBtn').innerHTML = 'Nur ein Scherz, bitte sag ja. Ich erzähle dir auch ein Witz.';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
             document.getElementById('siBtn').style.fontSize = '200px';
@@ -219,7 +219,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
         
         case 14:
            
-            document.getElementById('noBtn').innerHTML = 'Nein ... sag einfach ja.';
+            document.getElementById('noBtn').innerHTML = 'Du bist eine coole Socke ... sag einfach ja.';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
             // Hacer que el botón "Sí" crezca
@@ -243,7 +243,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
         
      
         case 16:
-                document.getElementById('noBtn').innerHTML = 'Bitteeeeeeeeeeeeeeeee';
+                document.getElementById('noBtn').innerHTML = 'Bitteeeeeeeeeeeeeeeee!!!';
                 document.getElementById('noBtn').style.backgroundColor = '#F1330A';
               
                 document.getElementById('sadGifContainer').style.display = 'none';
